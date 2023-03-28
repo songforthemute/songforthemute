@@ -31,7 +31,7 @@
 ![MONGO](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
--->
+
 
 ![PS](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![AI](https://img.shields.io/badge/adobe%20illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -41,3 +41,5 @@
 ### Tech Blog
 
 <a href="https://medium.com/@songforthemute"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+-->
