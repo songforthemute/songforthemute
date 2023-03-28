@@ -18,7 +18,7 @@
 
 ![REACT](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![NEXT](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![NODE](https://img.shields.io/badge/node.js-339933?style=for-flat-square&logo=node.js&logoColor=white)
+![NODE](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
 
