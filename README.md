@@ -2,8 +2,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=songforthemute&show_icons=true&hide=issues,contribs"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=songforthemute" />
+
 </p>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/64c99652-6651-41fb-ad14-c0afbceeb0a2.svg" alt="Total time coded since Apr 18 2021" />
+
+</p>
+
 
 ---
 
