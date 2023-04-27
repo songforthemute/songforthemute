@@ -1,5 +1,5 @@
-## Hi there 👋
-### Thanks to visit in my codespace :D
+### Hi there 👋
+#### [My latest project 👉](https://github.com/songforthemute/palette)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=songforthemute&show_icons=true&hide=issues,contribs"/>
