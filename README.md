@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-###### [My latest project is... 👉](https://github.com/songforthemute/palette)
-###### [I'm currently learning this... 👉](https://github.com/songforthemute/java-tutorial)
-###### [My portfolio is... 👉](https://songforthemute.netlify.app)
+- [***My latest project is... 👉***](https://github.com/songforthemute/palette)
+- [***I'm currently learning this... 👉***](https://github.com/songforthemute/java-tutorial)
+- [***My portfolio is... 👉***](https://songforthemute.netlify.app)
 
 
 <p align="center">
