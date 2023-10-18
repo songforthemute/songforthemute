@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- [***My latest project is... 👉***](https://github.com/know-how-ai/know-how-FE)
-- [***My portfolio is... 👉***](https://github.com/songforthemute)
-- [***I'm currently learning this... 👉***](https://github.com/songforthemute/java-tutorial)
+- [**My latest project is... 👉**](https://github.com/know-how-ai/know-how-FE)
+- [**My portfolio is... 👉**]([https://github.com/songforthemute](https://cocoloco.notion.site/2488d2b210fb48b3b869b7839e011b29?pvs=4))
 
 
 <p align="center">
