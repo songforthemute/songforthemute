@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- [**My latest project is... 👉**](https://github.com/know-how-ai/know-how-FE)
-- [**My portfolio is... 👉**]([https://github.com/songforthemute](https://cocoloco.notion.site/2488d2b210fb48b3b869b7839e011b29?pvs=4))
+- [*My latest project is... 👉*](https://github.com/know-how-ai/know-how-FE)
+- [*My portfolio is... 👉*](https://cocoloco.notion.site/2488d2b210fb48b3b869b7839e011b29?pvs=4)
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songforthemute&show_icons=true&hide=issues,contribs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=songforthemute&show_icons=true"/>
 
 </p>
 
