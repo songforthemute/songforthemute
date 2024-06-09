@@ -3,11 +3,11 @@
 #### Software engineer _<sub><sup>especially Frontend, based in React & TypeScript</sup></sub>_
 - **Crossangle Inc.** _<sub><sup>Data Analytics Platform, Frontend Developer (24.03 ~)</sup></sub>_
 
-#### _More..._
+#### _More_
 - [**Introduce**](https://cocoloco.notion.site/2488d2b210fb48b3b869b7839e011b29?pvs=4) | [**Blog**](https://medium.com/@songforthemute)
 - [Portfolio (legacy)](https://drive.google.com/file/d/1wgBh62DKBGpE9SWD7YlCwRqxiGhk5zum/view)
 - <details>
-      <summary><i>and more...?</i></summary>
+      <summary><i>and more...</i></summary>
       <p align="center">
         <img src="https://wakatime.com/badge/user/64c99652-6651-41fb-ad14-c0afbceeb0a2.svg" alt="Total time coded since Apr 18 2021" />
       </p>
