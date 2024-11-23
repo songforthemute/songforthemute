@@ -1,8 +1,11 @@
 ### Hi there 👋, I'm Coco Lee 😆 
 
-#### Software engineer _<sub><sup>especially Frontend, based in React & TypeScript</sup></sub>_
+- [**Medium Blog**](https://medium.com/@songforthemute)
+
+#### Software Engineer _<sub><sup>especially Frontend, based in React & TypeScript</sup></sub>_
 - **Crossangle Inc.** _<sub><sup>Data Analytics Platform, Frontend Developer (24.03 ~)</sup></sub>_
 
+<!--
 #### _More_
 - [**Introduce**](https://cocoloco.notion.site/2488d2b210fb48b3b869b7839e011b29?pvs=4) | [**Blog**](https://medium.com/@songforthemute)
 - [Portfolio (legacy)](https://drive.google.com/file/d/1wgBh62DKBGpE9SWD7YlCwRqxiGhk5zum/view)
@@ -15,8 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=songforthemute&show_icons=true"/>
       </p>
   </details>
-
-
+-->
 
 #### Tech
 
