@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Coco Lee 😆 
 
+- [**non.salon Blog**](https://non.salon)
 - [**Medium Blog**](https://medium.com/@songforthemute)
 
 #### Software Engineer _<sub><sup>especially Frontend, based in React & TypeScript</sup></sub>_
