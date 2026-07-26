@@ -1,10 +1,25 @@
-### Hi there 👋, I'm Coco Lee 😆 
+## Hi there 👋, I'm Coco Lee 😆 
+
+### Software Engineer, based Frontend
+ - #### [**Crossangle Inc.**](https://xangle.io)
+   - **Data Analytics Platform, Frontend Developer** (2024.03 ~ 2024.07)
+     - Developed Xangle ERP Performace Analytics (On-chain/Off-chain BI Dashboard)
+     - Developed Xangle ERP's Admin
+     - Developed Xangle Analytics (On-chain BI Dashboard)
+   - **Frontend Team, Frontend Developer** (2024.07 ~ Now)
+     - Developed [Xangle Portal](https://xangle.io) (MAU 100,000+, My-page, Login/SNS integration, Quest Service, Intelligence, Notification Center, Crypto Assets, Webview for Mobile App)
+     - Developed Xangle Portal's Admin (Quest Management, Intelligence Management, AI-driven Workflow in Intelligence, User Managerment, Research Management)
+     - Developed Aptos Explorer
+     - Developed [Babylon Explorer](https://babylon-explorer.xangle.io/ko/mainnet/home)
+     - Developed [Maplestory Universe Explorer](https://msu-explorer.xangle.io/) (Tokens, NFTs, Tokenomic, ...)
+     - Developed [0G Explorer](https://explorer.0g.ai/mainnet/home)
+     - Developed [0G Hub](https://hub.0g.ai) (MAU 50,000+, Nuxt SSR to React SPA Migration, Cross-chain Bridge w/ Chainlink, Token Swap, Token Faucet)
+     - Developed Kaia Hub (Applying HashiCorp Vault for KMS)
+
+#### Outlinks
 
 - [**non.salon Blog**](https://non.salon)
-- [**Medium Blog**](https://medium.com/@songforthemute)
-
-#### Software Engineer _<sub><sup>especially Frontend, based in React & TypeScript</sup></sub>_
-- **Crossangle Inc.** _<sub><sup>Data Analytics Platform, Frontend Developer (24.03 ~)</sup></sub>_
+- (deprecated) [**Medium Blog**](https://medium.com/@songforthemute)
 
 <!--
 #### _More_
@@ -31,11 +46,9 @@
 ![REACT](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![NEXT](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82)
 <br/>
 ![NODE](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-sqaure&logo=express&logoColor=%2361DAFB)
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 <!--
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
@@ -55,3 +68,5 @@
 
 <a href="https://medium.com/@songforthemute"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 -->
+
+_Last updated: 2026. 07. 26._
