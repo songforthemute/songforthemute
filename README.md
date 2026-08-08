@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Coco Lee 😆 
+## Hi there 👋, I'm Zoey 😆 
 
-### Software Engineer, based Frontend
+### Software Engineer, based Frontend, not only Frontend
  - #### [**Crossangle Inc.**](https://xangle.io)
    - **Data Analytics Platform, Frontend Developer** (2024.03 ~ 2024.07)
      - Developed Xangle ERP Performace Analytics (On-chain/Off-chain BI Dashboard)
