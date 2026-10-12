@@ -2,19 +2,15 @@
 
 ### Software Engineer, based Frontend, not only Frontend
  - #### [**Crossangle Inc.**](https://xangle.io)
-   - **Data Analytics Platform, Frontend Developer** (2024.03 ~ 2024.07)
+   - **Data Analytics Platform, Frontend Developer** (2024.03 ~ 2024.06)
      - Developed Xangle ERP Performace Analytics (On-chain/Off-chain BI Dashboard)
      - Developed Xangle ERP's Admin
      - Developed Xangle Analytics (On-chain BI Dashboard)
-   - **Frontend Team, Frontend Developer** (2024.07 ~ Now)
+   - **Frontend Team, Frontend Developer** (2024.06 ~ Now)
      - Developed [Xangle Portal](https://xangle.io) (MAU 100,000+, My-page, Login/SNS integration, Quest Service, Intelligence, Notification Center, Crypto Assets, Webview for Mobile App)
      - Developed Xangle Portal's Admin (Quest Management, Intelligence Management, AI-driven Workflow in Intelligence, User Managerment, Research Management)
-     - Developed Aptos Explorer
-     - Developed [Babylon Explorer](https://babylon-explorer.xangle.io/ko/mainnet/home)
-     - Developed [Maplestory Universe Explorer](https://msu-explorer.xangle.io/) (Tokens, NFTs, Tokenomic, ...)
-     - Developed [0G Explorer](https://explorer.0g.ai/mainnet/home)
-     - Developed [0G Hub](https://hub.0g.ai) (MAU 50,000+, Nuxt SSR to React SPA Migration, Cross-chain Bridge w/ Chainlink, Token Swap, Token Faucet)
-     - Developed Kaia Hub (Applying HashiCorp Vault for KMS)
+     - Developed Aptos Explorer, [Babylon Explorer](https://babylon-explorer.xangle.io/ko/mainnet/home), [Maplestory Universe Explorer](https://msu-explorer.xangle.io/) (Tokens, NFTs, Tokenomic, ...), [0G Explorer](https://explorer.0g.ai/mainnet/home)
+     - Developed [0G Hub](https://hub.0g.ai) (MAU 50,000+, Nuxt SSR to React SPA Migration, Cross-chain Bridge w/ Chainlink, Token Swap, Token Faucet), Kaia Hub (Applying HashiCorp Vault for KMS)
 
 #### Outlinks
 
